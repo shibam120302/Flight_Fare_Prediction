@@ -1,5 +1,5 @@
 
-#  Flight-Fare-Prediction
+#  Flight Fare Prediction
 
 ### Problem Statement
 
